@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repository: https://github.com/Mr-Chenxii/MrChen.github.io
+  branch: master
