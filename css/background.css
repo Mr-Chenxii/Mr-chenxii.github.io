@@ -1,0 +1,8 @@
+#web_bg {
+    /* 背景图像的地址（url括号里）  */
+    background: url(https://chenxi-1305165427.cos.ap-shanghai.myqcloud.com/v2-af16da70cb8e243abd76406cc4c52df4_1440w.jpg);
+    /* 背景图像不重复 */
+    background-repeat: no-repeat;
+    /* 背景图像大小 */
+    background-size: cover;
+  }
